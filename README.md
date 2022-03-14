@@ -84,8 +84,6 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `corbinenterline1`, `AirbnbCloneRedux`, `nibroc_corbin`, `corbin-enterline`, `gmail`, `corbinenterline1`, `AirBnB Clone`, `A recreation of the AirBnB website. The back end is built in Python and features a command line interpreter used as for data model manipulation and loading, abstracted to allow for different storage engines. The current ones are JSON a MySQL with SQLAlchemy for the ORM.  Pages are dynamically generated using Jinja templating in the Flask framework.  Flask is also used for the RESTful API, which also allows for model loading and manipulation.`
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
